@@ -145,7 +145,7 @@ hr {
   margin-right: 1rem;
 }
 
-.social-media-link {
+span {
   display: flex;
   fill: white;
   width: 25px;
