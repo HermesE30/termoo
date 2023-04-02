@@ -132,23 +132,28 @@ hr {
   border-width: 1px;
 }
 
-.footer {
+footer {
   display: flex;
   justify-content: center;
   color: white;
   text-align: center;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  gap: 0.5rem;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
 }
 
 .v-separator {
   margin-left: 1rem;
   margin-right: 1rem;
 }
-
-span {
+/* 
+.link {
   display: flex;
-  fill: white;
+  color: white;
   width: 25px;
   height: 25px;
   margin-right: 0.75rem;
-}
+} */
