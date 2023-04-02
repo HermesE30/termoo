@@ -4,7 +4,7 @@
     // "module": "commonjs",
     "lib": ["ESNext", "DOM"],
     "rootDir": "./src/app",
-    "outDir": "./dist",
+    "outDir": "./public",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
